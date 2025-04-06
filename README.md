@@ -10,7 +10,7 @@ a core plugin built for Minecraft Velocity proxy servers. It provides essential 
 - **Stats**  
   Display player statistics across all servers in the network.
   
-- **Stats**  
+- **LevelSystem**  
   Sync player Level across all servers in the network.
 
 - **Advanced Logging**  
