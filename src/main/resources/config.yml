@@ -14,7 +14,7 @@ core:
 
   # Discord Guild ID for logging
   discord:
-    bot-token: "MTMzMDcxMzQ2NjAyOTQ3Nzk1OQ.GqEWSH.YF0znhjs-aDdsPf9KW-KhLwTiig_WXiWycWd4g"
+    bot-token: ""
     logger: false
     logger-guildid: "1288892432649420811"
     rival-guildid: "1288892432649420811"
