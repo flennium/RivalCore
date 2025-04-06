@@ -1,6 +1,6 @@
-# VelocityCore
+# RivalCore
 
-**VelocityCore** is a modular and efficient core plugin built for Minecraft Velocity proxy servers. It provides essential features such as maintenance mode, security tools, logging, leaderboards, and more, all in one place.
+a core plugin built for Minecraft Velocity proxy servers. It provides essential features such as maintenance mode, security tools, logging, leaderboards, and more, all in one place.
 
 ## Features
 
