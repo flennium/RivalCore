@@ -19,7 +19,7 @@ core:
     logger-guildid: "1288892432649420811"
     rival-guildid: "1288892432649420811"
     rivalstaff-guildid: "1080070334998388837"
-    security-webhook: "https://discord.com/api/webhooks/1355417161530609765/tX6GwKwEBwhlJs_TDOiFFCfDLABj-rMenmXdkmfEgHK6MZXZr3fN3Nm9Ns-ABYJYAaW5"
+    security-webhook: ""
     leaderboard: false
 
   # Proxy MOTD
